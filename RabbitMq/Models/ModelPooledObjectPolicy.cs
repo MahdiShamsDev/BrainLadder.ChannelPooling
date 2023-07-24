@@ -23,7 +23,6 @@ namespace RabbitMq.Models
             {
                 HostName = _options.HostName,
                 UserName = _options.UserName,
-                Port = _options.Port,
                 Password = _options.Password,
                 VirtualHost = "/"
             };
