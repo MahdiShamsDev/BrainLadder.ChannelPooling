@@ -1,0 +1,15 @@
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\bin\Debug\net7.0\RabbitMq.deps.json
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\bin\Debug\net7.0\RabbitMq.dll
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\bin\Debug\net7.0\RabbitMq.pdb
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\bin\Debug\net7.0\Application.dll
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\bin\Debug\net7.0\Application.pdb
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.csproj.AssemblyReference.cache
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.AssemblyInfoInputs.cache
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.AssemblyInfo.cs
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.csproj.CopyComplete
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.dll
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\refint\RabbitMq.dll
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\RabbitMq.pdb
+C:\Users\Mahdi Shams\source\repos\BrainLadder.ChannelPooling\RabbitMq\obj\Debug\net7.0\ref\RabbitMq.dll

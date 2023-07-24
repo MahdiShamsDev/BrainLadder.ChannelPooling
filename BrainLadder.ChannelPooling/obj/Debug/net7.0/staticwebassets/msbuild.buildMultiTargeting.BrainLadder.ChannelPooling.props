@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BrainLadder.ChannelPooling.props" />
+</Project>
